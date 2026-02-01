@@ -1,48 +1,35 @@
-<h1 align="center">Hi 👋, I'm Yassine Belhaj Ali</h1>
-<h3 align="center">2nd Year Computer Science Student @ ISIM</h3>
+# Ana Yassine Belhaj Ali
 
----
+## 2nd Year Computer Science Student – ISIM
 
-### 👩‍💻 About Me
-- 🎓 I'm a **2nd year Computer Science student** at **ISIM**
-- 💡 Interested in **software development & problem solving**
-- 🌱 Currently learning **programming and computer science fundamentals**
-- 🚀 Motivated to improve my skills and work on real projects
+## About Me
+I am a 2nd year Computer Science student at ISIM.  
+I am passionate about learning programming and computer science fundamentals.  
+I am motivated to improve my skills through academic work and personal practice.
 
----
+## Social Links
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: (add your link)
+- Email: (add your email)
 
-### 🛠️ Skills & Tools
-- **Programming Languages:** C, Python, Java (basic)
-- **Web:** HTML, CSS, JavaScript (beginner)
-- **Tools:** Git, GitHub, VS Code
-- **Databases:** MySQL (basic)
+## Academic Focus
+- Programming Fundamentals
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Web Development Basics
 
----
+## Skills
+- Programming Languages: C, Python, Java (basic)
+- Web: HTML, CSS, JavaScript
+- Databases: MySQL (basic)
+- Tools: Git, GitHub, VS Code
 
-### 📚 What I'm Currently Learning
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Web Development basics  
+## Projects
+- Academic projects developed during my studies
+- Practice repositories to improve coding skills
+- More projects coming soon
 
----
-
-### 📂 Projects
-- 🔹 Small academic projects (coming soon)
-- 🔹 Practice repositories to improve my coding skills
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
-</p>
-
----
-
-### 📫 Contact Me
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
-
----
-
-✨ *Always learning and improving*
+## Goals
+- Strengthen problem-solving skills
+- Gain more experience in software development
+- Work on real-world projects in the future
