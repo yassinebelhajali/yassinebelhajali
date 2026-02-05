@@ -9,7 +9,7 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 I'm a **2nd year Computer Science student** at **ISIM**
+- 🎓 I'm a **2nd year Computer Science student** at **ISIMM**
 - 💡 Interested in **software development & problem solving**
 - 🌱 Currently learning **programming and computer science fundamentals**
 - 🚀 Motivated to improve my skills and work on real projects
