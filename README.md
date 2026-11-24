@@ -106,7 +106,7 @@ Collection of interactive 2D browser games featuring platform mechanics, animati
 ## 📫 Connect With Me
 
 - 📧 Email: belhadjaliyassine@gmail.com
-- 📱 WhatsApp: +216 22945592
+- 📱 WhatsApp: +216 92 315 331
 - 💻 GitHub: https://github.com/yassinebelhajali
 - 📸 Instagram: https://www.instagram.com/yassine.belhaj.ali
 
