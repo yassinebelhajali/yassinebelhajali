@@ -1,117 +1,49 @@
+<div align="center">Hi there, I'm Yassine Belhadj Ali 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3100&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Flutter+%26+Full-Stack+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Introduction animation" />Third-year Computer Science student at ISIMM
+📱 Mobile Development  •  🌐 Full-Stack Web  •  🧠 AI & Deep Learning
+🎯 Open to a 6-month PFE internship
 
-<h1 align="center">Hi 👋, I'm Yassine Belhadj Ali</h1>
 
-<h3 align="center">
-  Computer Science Student | Flutter & Full-Stack Developer
-</h3>
 
-<p align="center">
-  🎓 3rd-Year Computer Science Student at ISIMM <br>
-  💻 Passionate about Mobile Development, Web Technologies & AI <br>
-  🚀 Seeking a 6-Month PFE Internship
-</p>
+</div>👨‍💻 About Me
+- 🎓 I'm a third-year Bachelor's student in Computer Science at ISIMM.
+- 📱 I enjoy creating mobile apps with Flutter and building modern web experiences.
+- 💡 I learn by developing practical projects, experimenting, and solving problems.
+- 🧠 I am exploring AI and Deep Learning and earned NVIDIA's Fundamentals of Deep Learning Certificate of Competency.
+- 🤝 I am involved with IEEE Robotics and Automation Society (RAS) as Treasurer.
+- 🚀 I am looking for a PFE internship in mobile, full-stack, or software development.
+🛠️ Tech Stack
+<div align="center">Languages
+<img src="https://skillicons.dev/icons?i=dart,js,ts,python,java,c&perline=6" alt="Dart, JavaScript, TypeScript, Python, Java, C" />
+Mobile & Frontend
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,html,css&perline=5" alt="Flutter, React, Next.js, HTML, CSS" />
+Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,supabase&perline=6" alt="Node.js, Express, MongoDB, PostgreSQL, MySQL, Supabase" />
+Developer Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Git, GitHub, VS Code" /></div>My tech stack reflects technologies I have studied or used in projects; proficiency varies by tool.
 
-<p align="center">
-  <a href="https://github.com/yassinebelhajali">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:belhadjaliyassine@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+🚀 Featured Projects
+Project	Overview	Main technologies
+📱 StudyFlow	Student planning app with academic organization features	Flutter, Dart, Supabase
+💼 CVision	Career-preparation platform with résumé analysis and job matching	Next.js, TypeScript, Node.js
+🛰️ Ground Truth Under Attack	IEEE challenge project exploring satellite-image integrity and security	Python, React, Ed25519
+🎮 Pixel Quest 2D	Interactive collection of browser-based 2D games	HTML, CSS, JavaScript
+🌐 WebLearn	Educational website for learning web development through lessons and quizzes	HTML, CSS, JavaScript
 
----
 
-## 👨‍💻 About Me
-
-- 🎓 Third-year Bachelor's student in Computer Science at **ISIMM**
-- 📱 Interested in mobile application development with **Flutter**
-- 🌐 Building full-stack applications using modern web technologies
-- 🧠 Exploring **Artificial Intelligence and Deep Learning**
-- 🤖 Treasurer at **IEEE Robotics and Automation Society (RAS)**
-- 🎯 Looking for a **PFE Internship in Mobile or Full-Stack Development**
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,js,ts,python,java,c"/>
-</p>
-
-### Frontend & Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,html,css"/>
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,supabase"/>
-</p>
-
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📱 StudyFlow – Student Planner
-Mobile application designed to help students manage their academic activities.
-
-**Technologies:** Flutter, Dart, Supabase
-
-### 💼 CVision – AI-Powered Career Platform
-Full-stack platform featuring resume analysis, job matching, and career preparation tools.
-
-**Technologies:** Next.js, TypeScript, Node.js, Express.js, MongoDB
-
-### 🛰️ Ground Truth Under Attack
-IEEE TSYP Challenge project focusing on satellite imagery integrity and cybersecurity.
-
-**Technologies:** Python, React, TCP, Ed25519
-
-### 🎮 Pixel Quest 2D
-Collection of interactive 2D browser games featuring platform mechanics, animations, and keyboard controls.
-
-**Technologies:** HTML5, CSS3, JavaScript
-
----
-
-## 🏆 Certifications & Activities
-
-- NVIDIA – Fundamentals of Deep Learning
-- Flutter Mobile Development – ARSII
-- IEEE Tech Talk Session
-- Treasurer – IEEE Robotics and Automation Society
-- IEEEXtreme Programming Competition Participant
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassinebelhajali&show_icons=true&theme=tokyonight" alt="GitHub statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinebelhajali&layout=compact&theme=tokyonight" alt="Most used languages"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: belhadjaliyassine@gmail.com
-- 📱 WhatsApp: +216 92 315 331
-- 💻 GitHub: https://github.com/yassinebelhajali
-- 📸 Instagram: https://www.instagram.com/yassine.belhaj.ali
-
----
-
-<p align="center">
-  <i>Always learning, building, and improving 🚀</i>
-</p>
+Project demos and repository links will be added as they become publicly available.
+🏅 Certifications & Community
+- 🧠 NVIDIA — Fundamentals of Deep Learning · Certificate of Competency (2026)
+- 📱 ARSII — Flutter Mobile Development · Training participation (2025)
+- 🎤 IEEE — Tech Talk Session · Participation (2026)
+- 🤖 IEEE RAS — Treasurer
+- 💻 IEEEXtreme — Programming competition participant
+📊 GitHub Activity
+<div align="center"><img height="160" src="https://github-readme-stats.vercel.app/api?username=yassinebelhajali&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub profile statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinebelhajali&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages in public repositories" /></div><sub>Stats and icons use third-party services and may occasionally be unavailable. Language stats reflect public repository code, not overall proficiency.</sub>
+📬 Get in Touch
+- 💼 LinkedIn: Yassine Belhadj Ali
+- 💻 GitHub: @yassinebelhajali
+- ✉️ Email: belhadjaliyassine@gmail.com
+<div align="center">Always learning, building, and improving. 🚀
+</div>
