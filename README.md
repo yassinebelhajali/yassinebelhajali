@@ -109,7 +109,7 @@ Collection of interactive 2D browser games featuring platform mechanics, animati
 - 📱 WhatsApp: +216 22945592
 - 💻 GitHub: https://github.com/yassinebelhajali
 - 📸 Instagram: https://www.instagram.com/yassine.belhaj.ali
-
+- 💼 LinkedIn: https://www.linkedin.com/in/yassine-belhadj-ali-125957388/
 ---
 
 <p align="center">
